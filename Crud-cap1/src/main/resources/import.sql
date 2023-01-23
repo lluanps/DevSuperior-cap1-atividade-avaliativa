@@ -1,0 +1,10 @@
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Luana Pinheiro da Silva', '10604865783', 6500.0, '1998-05-02T08:25:00Z', 0.0);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Lucas Pinheiro da Silva', '10894605783', 6500.0, '1995-08-13T18:25:00Z', 0.0);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Joaquin Augusto Souza', '89400574871', 2500.0, '1970-10-28T01:55:00Z', 4.0);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Maria Aparecida Ramos', '84511020687', 5500.0, '1965-06-29T02:45:06Z', 2.0);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Gomercinda Viera campos', '10894579213', 1500.0, '1952-08-13T20:25:00Z', 0.0);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Luan Pinheiro', '10894605783', 22500.0, '1998-05-01T10:25:00Z', 1.0);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Patricia guimarães', '8460129960', 10500.0, '2000-06-23T15:20:00Z', 0.0);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Gustavo da Mata', '99456870139', 17500.0, '1999-04-06T23:05:10Z', 4.0);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Luciana Hoffsten', '159106051234', 6500.0, '2002-01-13T08:55:50Z', 0.0);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Matheus Gomez Pressoto', '10894605783', 9500.0, '1999-12-03T12:25:00Z', 1.0);
